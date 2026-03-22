@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Aldemir Sales e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em desenvolvimento Back-end com Java.</p>
+<p align="left">Meu nome é Aldemir Sales e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em desenvolvimento Back-end com Python.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Transição para Desenvolvimento Back-End<br>Após experiência na área administrativa, estou em transição de carreira para tecnologia, iniciando minha jornada no desenvolvimento Back-end com Java e focado em boas práticas de programação e construção de APIs.<br><br>📚 Formação em andamento<br><br>Análise e Desenvolvimento de Sistemas (ADS)</p>
+<p align="left">👨🏽‍💻 Transição para Desenvolvimento Back-End<br>Após experiência na área administrativa, estou em transição de carreira para tecnologia, iniciando minha jornada no desenvolvimento Back-end com Python e focado em boas práticas de programação, automações e construção de APIs.<br><br>📚 Formação em andamento<br><br>Análise e Desenvolvimento de Sistemas (ADS)</p>
 
 ###
 
@@ -19,15 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
