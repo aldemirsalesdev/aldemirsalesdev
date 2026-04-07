@@ -1,48 +1,36 @@
-<h1 align="left">Hi there 👋</h1>
-
-###
-
-<p align="left">Meu nome é Aldemir Sales e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em desenvolvimento Back-end com Python.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">👨🏽‍💻 Transição para Desenvolvimento Back-End<br>Após experiência na área administrativa, estou em transição de carreira para tecnologia, iniciando minha jornada no desenvolvimento Back-end com Python e focado em boas práticas de programação, automações e construção de APIs.<br><br>📚 Formação em andamento<br><br>Análise e Desenvolvimento de Sistemas (ADS)</p>
+<p align="left">
+Desenvolvedor Back-end em formação, com foco em Python e graduando em Análise e Desenvolvimento de Sistemas, em constante evolução no desenvolvimento de software.
+<br><br>
+Em transição da área administrativa para tecnologia, venho desenvolvendo projetos práticos, evoluindo continuamente minhas habilidades e buscando minha primeira oportunidade como desenvolvedor para crescer profissionalmente e adquirir experiência em projetos reais.
+</p>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left">Contacts</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/aldemirsales/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="aldemirsalesmoreira@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+<img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" height="39" style="margin-right:4px;" />
+<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" height="39" style="margin-right:4px;" />
+<img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" height="39" style="margin-right:4px;" />
+<img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge" height="39" />
+
 </div>
 
 ###
+
+<h2 align="left">Studying</h2>
+
+###
+
+<p align="left">
+• Programming logic and problem solving<br>
+• Cloud computing fundamentals (AWS)<br>
+• Process automation
+</p>
