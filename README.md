@@ -25,6 +25,7 @@ Em transição da área administrativa para tecnologia, venho desenvolvendo proj
 <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" height="39" style="margin-right:4px;" />
 <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" height="39" style="margin-right:4px;" />
 <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" height="39" style="margin-right:4px;" />
+<img src="https://img.shields.io/badge/-n8n-000?style=for-the-badge&logo=n8n" height="39" style="margin-right:4px;" />
 <img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge" height="39" />
 
 </div>
@@ -38,5 +39,5 @@ Em transição da área administrativa para tecnologia, venho desenvolvendo proj
 <p align="left">
 • Programming logic and problem solving<br>
 • Cloud computing fundamentals (AWS)<br>
-• Process automation
+• Workflow automation with n8n
 </p>
