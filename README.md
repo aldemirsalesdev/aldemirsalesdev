@@ -20,7 +20,7 @@ Minha experiência na área administrativa contribui para entender processos, or
 
 ## Projetos em destaque
 
-### Resumind — análise e edição de currículos
+### Resumind - análise e edição de currículos
 
 Aplicação web para analisar, editar e exportar currículos, combinando verificações de estrutura com recursos de inteligência artificial.
 
@@ -28,7 +28,7 @@ Aplicação web para analisar, editar e exportar currículos, combinando verific
 
 [Visitar aplicação](https://resumind.site) · [Explorar código e documentação](https://github.com/aldemirsalesdev/resumind)
 
-### Agro Esporte Clube — central de links
+### Agro Esporte Clube - central de links
 
 Página institucional que reúne acesso à loja oficial, grupo do WhatsApp, site e redes sociais do clube, com identidade visual própria e layout responsivo.
 
@@ -60,7 +60,7 @@ Minha apresentação profissional, com projetos, trajetória, formação e canai
 
 ## Formação
 
-- **Análise e Desenvolvimento de Sistemas — UniCesumar:** graduação em andamento, com conclusão prevista para agosto de 2027.
+- **Análise e Desenvolvimento de Sistemas - UniCesumar:** graduação em andamento, com conclusão prevista para agosto de 2027.
 - Estudos complementares em computação em nuvem, inteligência artificial e suporte de TI.
 
 ## Como desenvolvo
