@@ -25,8 +25,6 @@ Minha experiência anterior contribui para entender processos, organizar informa
 
 ### Resumind - Análise e edição de currículos
 
-[![Tela inicial do Resumind](https://raw.githubusercontent.com/aldemirsalesdev/aldemir-sales-portfolio/main/public/resumind-landing.png)](https://resumind.site)
-
 Aplicação para analisar, editar e exportar currículos, combinando verificações de estrutura com recursos de inteligência artificial.
 
 - Análise de currículos com diagnóstico e sugestões.
@@ -38,8 +36,6 @@ Aplicação para analisar, editar e exportar currículos, combinando verificaç�
 [**Acessar aplicação ↗**](https://resumind.site) · [Ver código](https://github.com/aldemirsalesdev/resumind)
 
 ### Agro Esporte Clube - Central de links
-
-[![Identidade visual do Agro Esporte Clube](https://raw.githubusercontent.com/aldemirsalesdev/agro-esporte-clube/main/og-card.png)](https://agroesporteclubelinks.com.br)
 
 Página institucional com identidade visual própria para facilitar o acesso aos canais digitais do clube.
 
