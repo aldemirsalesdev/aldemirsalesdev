@@ -17,7 +17,7 @@ Do Rio de Janeiro, desenvolvendo aplicações web para resolver problemas reais.
 
 ## Sobre mim
 
-Desenvolvo projetos web com **React, TypeScript e Node.js**, integrando interfaces, APIs e persistência de dados. Estou em transição da área administrativa para tecnologia e busco minha primeira oportunidade profissional em desenvolvimento.
+Desenvolvo aplicações web com **React, TypeScript e Node.js**, utilizando **Inteligência Artificial como apoio à implementação, revisão de código e resolução de problemas**. Estou em transição da área administrativa para tecnologia e busco minha primeira oportunidade profissional em desenvolvimento.
 
 Minha experiência anterior contribui para entender processos, organizar informações e transformar demandas em soluções. Atualmente, aprofundo meus conhecimentos em **Python, MySQL e fundamentos de computação em nuvem**.
 
@@ -27,10 +27,6 @@ Minha experiência anterior contribui para entender processos, organizar informa
 
 Aplicação para analisar, editar e exportar currículos, combinando verificações de estrutura com recursos de inteligência artificial.
 
-- Análise de currículos com diagnóstico e sugestões.
-- Editor com visualização do documento.
-- Exportação em PDF e autenticação com Firebase.
-
 **Stack:** React, TypeScript, Node.js, Express, Tailwind CSS e Firebase.
 
 [**Acessar aplicação ↗**](https://resumind.site) · [Ver código](https://github.com/aldemirsalesdev/resumind)
@@ -38,10 +34,6 @@ Aplicação para analisar, editar e exportar currículos, combinando verificaç�
 ### Agro Esporte Clube - Central de links
 
 Página institucional com identidade visual própria para facilitar o acesso aos canais digitais do clube.
-
-- Links para a loja, o site oficial, o WhatsApp e as redes sociais.
-- Layout responsivo e animações de interface.
-- Metadados para compartilhamento nas redes sociais.
 
 **Stack:** HTML, CSS e JavaScript.
 
@@ -71,15 +63,13 @@ Apresentação dos meus projetos, trajetória, formação e canais de contato, c
 
 **Em aprofundamento**
 
-Python · MySQL · Fundamentos de AWS · Automação com n8n
+Python · MySQL · Fundamentos de AWS
 
 ## Formação e desenvolvimento
 
 - **ADS na UniCesumar**, com conclusão prevista para agosto de 2027.
 - Estudos complementares em inteligência artificial, computação em nuvem e suporte de TI.
 - Inglês básico, com foco em leitura técnica.
-
-Utilizo IA como apoio à implementação e revisão de código, buscando compreender as soluções e validar o comportamento das aplicações.
 
 ---
 
