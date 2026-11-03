@@ -17,7 +17,7 @@ Do Rio de Janeiro, desenvolvendo aplicações web para resolver problemas reais.
 
 ## Sobre mim
 
-Desenvolvo aplicações web com **React, TypeScript e Node.js**, utilizando **Inteligência Artificial como apoio à implementação, revisão de código e resolução de problemas**. Estou em transição da área administrativa para tecnologia e busco minha primeira oportunidade profissional em desenvolvimento.
+Desenvolvo aplicações web com **React, TypeScript e Node.js**, integrando **APIs REST** e utilizando **Inteligência Artificial como apoio à implementação, revisão de código e resolução de problemas**. Estou em transição da área administrativa para tecnologia e busco minha primeira oportunidade profissional em desenvolvimento.
 
 Minha experiência anterior contribui para entender processos, organizar informações e transformar demandas em soluções. Atualmente, aprofundo meus conhecimentos em **Python, MySQL e fundamentos de computação em nuvem**.
 
@@ -61,7 +61,7 @@ Apresentação dos meus projetos, trajetória, formação e canais de contato, c
 ![Firebase](https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git)
 
-**Em aprofundamento**
+**Estudando atualmente**
 
 Python · MySQL · Fundamentos de AWS
 
